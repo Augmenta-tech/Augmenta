@@ -1,10 +1,14 @@
-========================
 Augmenta meta repository
+========================
 
-If you are looking for an Augmenta repository, click here :
+Find the correct repository
+---------------------------
 
-https://github.com/Theoriz
+Click here : https://github.com/Theoriz
 
-This is a meta repository containing every submodule of Augmenta. This is useful for power users who want to have all the repository in one place.
+Submodules
+----------
+
+This is a meta repository containing every submodule of Augmenta. This is useful only for power users who want to have all the repository in one place.
 
 [Théoriz studio]: http://www.theoriz.com/
