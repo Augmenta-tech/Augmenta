@@ -21,7 +21,7 @@ Check the contribute section in each repository.
 Applications
 ------------
 
-For now, you can check examples what we do with Augmenta here : [Théoriz studio]
+For now, you can check some examples of what we do with Augmenta here : [Théoriz studio]
 
 People are starting to do cool things right now !
 
