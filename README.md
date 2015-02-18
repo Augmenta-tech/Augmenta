@@ -1,5 +1,5 @@
-Augmenta meta
-=============
+Augmenta
+========
 
 Find your repo
 --------------
