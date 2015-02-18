@@ -16,13 +16,15 @@ Contribute
 
 Join the community !
 
-Check the contribute panel in each repository.
+Check the contribute section in each repository.
 
 Applications
 ------------
 
-You can check examples what we do with Augmenta here : [Théoriz studio]
+For now, you can check examples what we do with Augmenta here : [Théoriz studio]
 
-We will also post videos in a new website of what awesome people do with it soon !
+People are starting to do cool things right now !
+
+We will post videos in a new website to come of what awesome people do with it soon !
 
 [Théoriz studio]: http://www.theoriz.com/
