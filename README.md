@@ -11,7 +11,9 @@ https://github.com/Theoriz
 Get your tools
 --------------
 
-Get the tools to work to work without the hardware
+Get the tools to work without the hardware
+
+https://github.com/Theoriz/Augmenta/wiki
 
 Contribute
 ----------
