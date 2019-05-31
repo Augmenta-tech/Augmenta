@@ -1,7 +1,7 @@
 Augmenta, creative tracking system
 ==================================
 
-Augmenta is a combination of hardware (multiple 3D cameras, dedicated computers and a server computer) and software (Image analysis, data fusion, tools, etc.) which provides the position of every person or object in scene via OSC, along with other useful data.
+Augmenta is a sensorless tracking technology for creative applications. People and objects can be tracked without limitation of number of people or area size. The tracking data are provided by the 3D camera network through open protocols (osc, posistagenet) compatible with most creative softwares. The technology has been designed for events or permanent installations in mind.
 
 [Watch the video]
 
