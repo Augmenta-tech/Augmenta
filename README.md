@@ -3,7 +3,7 @@ Augmenta, creative tracking system
 
 ![Augmenta](https://github.com/Theoriz/Augmenta/blob/gh-pages/res/gif/augmenta_480p.gif)
 
-### Documentation : [Getting started](https://github.com/Theoriz/Augmenta/wiki)
+### Documentation : :point_right: [Getting started](https://github.com/Theoriz/Augmenta/wiki)
 
 > [Showreel](https://www.youtube.com/watch?v=Bswps0tFLqs)
 
