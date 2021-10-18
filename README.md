@@ -1,16 +1,13 @@
 Augmenta, creative tracking system
 ==================================
 
-Augmenta is a sensorless tracking technology for creative applications. People and objects can be tracked without limitation of number of people or area size. The tracking data are provided by the 3D camera network through open protocols (osc, posistagenet) compatible with most creative softwares. The technology has been designed for events or permanent installations in mind.
-
-Some videos : [Demo](https://vimeo.com/323923994), [Interactive space example](https://vimeo.com/339124467), [Tutorials](https://www.youtube.com/channel/UC4Cw9fxKz6aVYPQAUmHrPog)
-
-[Getting started]
-
-www.augmenta-tech.com
-
 ![Augmenta](https://github.com/Theoriz/Augmenta/blob/gh-pages/res/gif/augmenta_480p.gif)
 
-[Watch the video]: https://vimeo.com/323923994
-[Getting started]: https://github.com/Theoriz/Augmenta/wiki
-[Théoriz studio]: http://www.theoriz.com/
+### Documentation : [Getting started](https://github.com/Theoriz/Augmenta/wiki)
+
+> [Showreel](https://www.youtube.com/watch?v=Bswps0tFLqs)
+
+> [Augmenta Website](https://augmenta-tech.com/)
+
+> Made by : [Théoriz studio](http://www.theoriz.com/)
+
