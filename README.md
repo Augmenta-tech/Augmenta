@@ -7,6 +7,6 @@ Augmenta, creative tracking system
 
 ------------------------------------------
 
-[www.augmenta-tech.com](https://augmenta-tech.com/)
+[www.augmenta.tech](https://augmenta.tech/)
 
 Designed by [THEORIZ studio](http://www.theoriz.com/)
